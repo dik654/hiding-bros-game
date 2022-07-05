@@ -1,7 +1,7 @@
 {
   "main.css": "/hiding-bros-game/static/css/main.e8bfad65.chunk.css",
-  "main.js": "/hiding-bros-game/static/js/main.436cb0ca.chunk.js",
-  "main.js.map": "/hiding-bros-game/static/js/main.436cb0ca.chunk.js.map",
+  "main.js": "/hiding-bros-game/static/js/main.58a5d51a.chunk.js",
+  "main.js.map": "/hiding-bros-game/static/js/main.58a5d51a.chunk.js.map",
   "static/js/1.aabfc9ef.chunk.js": "/hiding-bros-game/static/js/1.aabfc9ef.chunk.js",
   "static/js/1.aabfc9ef.chunk.js.map": "/hiding-bros-game/static/js/1.aabfc9ef.chunk.js.map",
   "runtime~main.js": "/hiding-bros-game/static/js/runtime~main.8bdc2c81.js",
@@ -17,6 +17,6 @@
   "static/media/down.png": "/hiding-bros-game/static/media/down.23c6ad87.png",
   "static/css/main.e8bfad65.chunk.css.map": "/hiding-bros-game/static/css/main.e8bfad65.chunk.css.map",
   "index.html": "/hiding-bros-game/index.html",
-  "precache-manifest.f46d86dc1312d8e4388556551e3bb39d.js": "/hiding-bros-game/precache-manifest.f46d86dc1312d8e4388556551e3bb39d.js",
+  "precache-manifest.71f53b80c86a0262ec55484c53a59c4d.js": "/hiding-bros-game/precache-manifest.71f53b80c86a0262ec55484c53a59c4d.js",
   "service-worker.js": "/hiding-bros-game/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hiding-bros-game/precache-manifest.71f53b80c86a0262ec55484c53a59c4d.js"
+  "/hiding-bros-game/precache-manifest.f97bea41757b93b62e7d6bc54c67ecf5.js"
 );
 
 workbox.clientsClaim();
